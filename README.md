@@ -4,4 +4,4 @@ Blog: [https://no-delay.tistory.com/](https://no-delay.tistory.com/)
 
 Email: jiyeonyou0416@naver.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youjiyeon&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youjiyeon&theme=dracula)
