@@ -9,6 +9,6 @@ Email: jiyeonyou0416@naver.com
 </div>
 
 <div>
-  <img src="https://oreuda.kr/api/v1/plant/card?nickname=youjiyein"/>
+  <img src="https://oreuda.kr/api/v1/plant/card?nickname=youjiyeon"/>
  </div>
 
