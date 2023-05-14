@@ -10,6 +10,10 @@ Email: jiyeonyou0416@naver.com
  </div>
  
 <div align="center">
-  <a href="http://solved.ac/jiyeon416"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon416"/></a> <a href="http://solved.ac/jiyeon416"><img src="http://mazandi.herokuapp.com/api?handle=jiyeon416&theme=dark"/></a>
+  <a href="http://solved.ac/jiyeon416"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon416"/></a>
+</div>
+
+<div align="center">
+  <a href="http://solved.ac/jiyeon416"><img src="http://mazandi.herokuapp.com/api?handle=jiyeon416&theme=dark"/></a>
 </div>
 
