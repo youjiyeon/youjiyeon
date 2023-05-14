@@ -11,6 +11,3 @@ Email: jiyeonyou0416@naver.com
 <div align="center">
   <img src="https://oreuda.kr/api/v1/plant/card?nickname=youjiyeon"/>
  </div>
-![img](https://oreuda.kr/api/v1/plant/card?nickname=youjiyeon)
-
-<img src="~@source/api/v1/plant/card?nickname=youjiyeon" />
