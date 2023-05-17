@@ -16,7 +16,7 @@
   <div key="6">
     <a href = "https://oreuda.kr/">
       <img
-        src=https://oreuda.kr/api/v1/plant/card?nickname=gilsanguk
+        src=https://oreuda.kr/api/v1/plant/card?nickname=youjiyeon
         alt="oreuda"
       />
     </a>
