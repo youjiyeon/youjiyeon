@@ -71,10 +71,12 @@
       <a href=https://www.notion.so/16e8658fe2044f68a2984d8188b77fe9 target="_blank">
             <img src=https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/16e8658fe2044f68a2984d8188b77fe9/ alt="notion" />
           </a>
+      </div>
     </div>
   </div>
-      ![COBBY_BADGE](https://cobby-play.com/api/user/badge/youjiyeon)
-
 </div>
-      
-<h3 style ="font-size : 2em; font-weight:700;">Git 기반 캐릭터 꾸미기</h3>
+
+
+<h3 style ="font-size : 2em; font-weight:700;">Git 기반 캐릭터 키우기</h3>    
+
+![COBBY_BADGE](https://cobby-play.com/api/user/badge/youjiyeon)
