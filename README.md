@@ -39,26 +39,6 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/cpp-f34b7d?style=flat&logo=cpp&logoColor=white
           alt=""
-        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;">프론트 엔드</h3><div "><img
-          key=996882.2298083339
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/javascript-f1e05a?style=flat&logo=javascript&logoColor=white
-          alt=""
-        /> <img
-          key=334912.67585547094
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/typescript-31859c?style=flat&logo=typescript&logoColor=white
-          alt=""
-        /> <img
-          key=245832.26650060166
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/html5-e44b23?style=flat&logo=html5&logoColor=white
-          alt=""
-        /> <img
-          key=362459.56142317737
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/css-563d7c?style=flat&logo=css&logoColor=white
-          alt=""
         /></div></div>
   </div>
   
