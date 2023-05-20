@@ -73,7 +73,8 @@
           </a>
     </div>
   </div>
+      ![COBBY_BADGE](https://cobby-play.com/api/user/badge/youjiyeon)
+
 </div>
       
 <h3 style ="font-size : 2em; font-weight:700;">Git 기반 캐릭터 꾸미기</h3>
-![COBBY_BADGE](https://cobby-play.com/api/user/badge/youjiyeon)
