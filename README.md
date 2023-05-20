@@ -14,6 +14,7 @@
   </div>
   
   <div key="6">
+    <h3 style ="font-size : 2em; font-weight:700;">Git 기반 캐릭터 키우기</h3>
     <a href = "https://oreuda.kr/">
       <img
         src=https://oreuda.kr/api/v1/plant/card?nickname=youjiyeon
@@ -72,7 +73,8 @@
           </a>
     </div>
   </div>
-  
+  <div>
+      <h3 style ="font-size : 2em; font-weight:700;">Git 기반 캐릭터 꾸미기</h3>
+      ![COBBY_BADGE](https://cobby-play.com/api/user/badge/youjiyeon)
+  </div>
 </div>
-
-![COBBY_BADGE](https://cobby-play.com/api/user/badge/youjiyeon)
