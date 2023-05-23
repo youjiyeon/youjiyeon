@@ -68,7 +68,7 @@
       <a href=https://no-delay.tistory.com/ target="_blank">
             <img src=https://img.shields.io/badge/TechBlog-7FD2F5?style=flat&logo=Hoppscotch&logoColor=white&link=https://no-delay.tistory.com// alt="blog" />
           </a>
-      <a href=https://www.notion.so/16e8658fe2044f68a2984d8188b77fe9 target="_blank">
+      <a href=https://spurious-astronomy-3a1.notion.site/eba6a224f5d44a5d80d54c1e66dc23de target="_blank">
             <img src=https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://spurious-astronomy-3a1.notion.site/eba6a224f5d44a5d80d54c1e66dc23de alt="notion" />
           </a>
       </div>
