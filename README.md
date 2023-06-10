@@ -123,8 +123,8 @@
   </div>
   
   <div key="1">
-    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon416 width="280" height="140" alt="baekjoon" />
-    <img src=http://mazandi.herokuapp.com/api?handle=jiyeon416&theme=warm width="285" height="140" alt="solved" />
+    <a href="http://solved.ac/jiyeon416"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon416 width="280" height="140" alt="baekjoon" /></a>
+    <a href="http://solved.ac/jiyeon416"><img src=http://mazandi.herokuapp.com/api?handle=jiyeon416&theme=warm width="285" height="140" alt="solved" /></a>
   </div>
   
   <div key="5">
