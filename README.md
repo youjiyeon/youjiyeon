@@ -148,3 +148,6 @@
 </div>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
+# 오르다 성장 차트📈
+![캡처](https://github.com/youjiyeon/youjiyeon/assets/57094856/77f8ac8f-01c0-433e-a6d2-84b2d9716ef2)
