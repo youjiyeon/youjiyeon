@@ -1,6 +1,4 @@
-![Light-Image](https://capsule-render.vercel.app/api?type=waving&color=0:B7C7FF,50:CAAAFF,100:ECB7FF&text=Welcome%20to%20Jiyeon's%20GitHub%20👋&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=35&height=250#gh-light-mode-only)
-
-![Dark-Image](https://capsule-render.vercel.app/api?type=waving&color=0:9FB4FF,50:BB91FF,100:E291FF&text=Welcome%20to%20Jiyeon's%20GitHub%20👋&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=35&height=250#gh-dark-mode-only)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:B7C7FF,50:CAAAFF,100:ECB7FF&text=Welcome%20to%20Jiyeon's%20GitHub%20👋&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=35&height=250)
 
 # 👩‍💻BackEnd Developer
 
