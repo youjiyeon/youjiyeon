@@ -115,11 +115,8 @@
   </div>
   
   <div key="3">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=youjiyeon&theme=cobalt width="280" height=270 alt="MUL" />
-  </div>
-  
-  <div key="2">
-    <img src=https://github-readme-stats.vercel.app/api?username=youjiyeon&show_icons=true&theme=dark width="350" height="150" alt="githubStats" />
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=youjiyeon&hide_progress=true&theme=tokyonight width="280" height=156 alt="MUL" />
+    <img src=https://github-readme-stats.vercel.app/api?username=youjiyeon&show_icons=true&theme=dark width="285" height="156" alt="githubStats" />
   </div>
   
   <div key="1">
