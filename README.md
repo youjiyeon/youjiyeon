@@ -145,7 +145,7 @@
 </div>
 
 # 오르다 성장 차트📈 (Updated 23.07.10)
-![](./oreuda-history/오르다_23.07.01.PNG)
+![](./oreuda-history/오르다_23.07.10.PNG)
 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
