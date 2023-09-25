@@ -23,6 +23,16 @@
       />
     </a>
   </div>
+
+  <div key="1">
+    <a href="http://solved.ac/jiyeon416"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon416 width="280" height="140" alt="baekjoon" /></a>
+    <a href="http://solved.ac/jiyeon416"><img src=http://mazandi.herokuapp.com/api?handle=jiyeon416&theme=warm width="285" height="140" alt="solved" /></a>
+  </div>
+  
+  <div key="3">
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=youjiyeon&hide_progress=true&theme=tokyonight width="280" height=156 alt="MUL" />
+    <img src=https://github-readme-stats.vercel.app/api?username=youjiyeon&show_icons=true&theme=dark width="285" height="156" alt="githubStats" />
+  </div>
   
   <div key="4">
   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
@@ -112,16 +122,6 @@
           src=https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white
           alt=""
         /></div></div>
-  </div>
-  
-  <div key="3">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=youjiyeon&hide_progress=true&theme=tokyonight width="280" height=156 alt="MUL" />
-    <img src=https://github-readme-stats.vercel.app/api?username=youjiyeon&show_icons=true&theme=dark width="285" height="156" alt="githubStats" />
-  </div>
-  
-  <div key="1">
-    <a href="http://solved.ac/jiyeon416"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon416 width="280" height="140" alt="baekjoon" /></a>
-    <a href="http://solved.ac/jiyeon416"><img src=http://mazandi.herokuapp.com/api?handle=jiyeon416&theme=warm width="285" height="140" alt="solved" /></a>
   </div>
   
   <div key="5">
