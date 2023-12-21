@@ -46,7 +46,7 @@
   </div>
   
   <div key="4">
-  <h3 style ="font-size : 2em; font-weight:700;">Tech Stack</h3>
+  <h2 style ="font-size : 2em; font-weight:700;">Tech Stack</h2>
     <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;">백엔드</h3><div "><img
           key=461896.6191260814
           style = "margin: 5px 5px;"
@@ -136,7 +136,7 @@
   </div>
   
   <div key="5">
-    <h3 style ="font-size : 2em; font-weight:700;">💜Contact💜</h3>
+    <h2 style ="font-size : 2em; font-weight:700;">💜Contact💜</h2>
     <div className=Preview_contactBadgeDiv__3demU>
       <a href=mailto:jiyeonyou0416@naver.com target="_blank">
             <img
