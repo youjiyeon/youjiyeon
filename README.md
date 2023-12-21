@@ -2,20 +2,30 @@
 
 # 👩‍💻BackEnd Developer
 
-<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
+<!-- <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";> -->
+<div  style = "display: flex; align-items: center; flex-direction: column; justify-content: center>
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
   <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
   <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
   <div key="7" >
     <div key=0 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
-          자기소개
+          I am
           </h3>
-          <p style ="font-size : 20px;">안녕하세요. 다양한 경험을 즐기는 개발자입니다. ❤</p>
+          <p style ="font-size : 20px;">안녕하세요. 다양한 경험을 즐기는 개발자입니다.👩‍💻</p>
+    </div>
+  </div>
+  
+  <div key="7">
+    <h3 style ="font-size : 2em; font-weight:700;">💙hit💙</h3>
+    <div className=hit>
+      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon416&count_bg=%2366C9DF&title_bg=%23F7C1C1&icon=&icon_color=%23DCDCDC&title=hits&edge_flat=false"/>
+      </a>
     </div>
   </div>
   
   <div key="6">
+    <h3 style ="font-size : 2em; font-weight:700;">Git Stats</h3>
     <a href = "https://oreuda.kr/">
       <img
         src=https://oreuda.kr/api/v1/plant/card?nickname=youjiyeon
@@ -24,18 +34,19 @@
     </a>
   </div>
 
-  <div key="1">
-    <a href="http://solved.ac/jiyeon416"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon416 width="280" height="140" alt="baekjoon" /></a>
-    <a href="http://solved.ac/jiyeon416"><img src=http://mazandi.herokuapp.com/api?handle=jiyeon416&theme=warm width="285" height="140" alt="solved" /></a>
-  </div>
-  
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=youjiyeon&hide_progress=true&theme=tokyonight width="280" height=156 alt="MUL" />
     <img src=https://github-readme-stats.vercel.app/api?username=youjiyeon&show_icons=true&theme=dark width="285" height="156" alt="githubStats" />
   </div>
+
+  <div key="1">
+    <h3 style ="font-size : 2em; font-weight:700;">Algorithm Stats</h3>
+    <a href="http://solved.ac/jiyeon416"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeon416 width="280" height="140" alt="baekjoon" /></a>
+    <a href="http://solved.ac/jiyeon416"><img src=http://mazandi.herokuapp.com/api?handle=jiyeon416&theme=warm width="285" height="140" alt="solved" /></a>
+  </div>
   
   <div key="4">
-  <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
+  <h3 style ="font-size : 2em; font-weight:700;">Tech Stack</h3>
     <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;">백엔드</h3><div "><img
           key=461896.6191260814
           style = "margin: 5px 5px;"
@@ -141,15 +152,6 @@
           </a>
     </div>
   </div>
-
-  <div key="7">
-    <h3 style ="font-size : 2em; font-weight:700;">💙hit💙</h3>
-    <div className=hit>
-      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon416&count_bg=%2366C9DF&title_bg=%23F7C1C1&icon=&icon_color=%23DCDCDC&title=hits&edge_flat=false"/>
-      </a>
-    </div>
-  </div>
-  
 </div>
 
 
