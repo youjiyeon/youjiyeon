@@ -125,7 +125,7 @@
   </div>
   
   <div key="5">
-    <h3 style ="font-size : 2em; font-weight:700;">💙Contact💙</h3>
+    <h3 style ="font-size : 2em; font-weight:700;">💜Contact💜</h3>
     <div className=Preview_contactBadgeDiv__3demU>
       <a href=mailto:jiyeonyou0416@naver.com target="_blank">
             <img
@@ -141,8 +141,18 @@
           </a>
     </div>
   </div>
+
+  <div key="7">
+    <h3 style ="font-size : 2em; font-weight:700;">💙hit💙</h3>
+    <div className=hit>
+      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon416&count_bg=%2366C9DF&title_bg=%23F7C1C1&icon=&icon_color=%23DCDCDC&title=hits&edge_flat=false"/>
+      </a>
+    </div>
+  </div>
   
 </div>
+
+
 
 # 오르다 성장 차트📈 (Updated 23.07.10)
 ![](./oreuda-history/오르다_23.07.10.PNG)
