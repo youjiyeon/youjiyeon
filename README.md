@@ -24,7 +24,7 @@
     </div>
   </div>
   
-  <div key="6">
+  <!-- div key="6"> -->
     <h3 style ="font-size : 2em; font-weight:700;">Git Stats</h3>
     <a href = "https://oreuda.kr/">
       <img
