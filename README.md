@@ -24,15 +24,15 @@
     </div>
   </div>
   
-  <!-- div key="6"> -->
-    <!-- <h3 style ="font-size : 2em; font-weight:700;">Git Stats</h3> -->
-    <!-- <a href = "https://oreuda.kr/"> -->
-      <!-- <img -->
+  <!-- div key="6">
+    <h3 style ="font-size : 2em; font-weight:700;">Git Stats</h3>
+    <a href = "https://oreuda.kr/">
+      <img
         src=https://oreuda.kr/api/v1/plant/card?nickname=youjiyeon
         alt="oreuda" 
       />
     </a>
-  </div>
+  </div -->
 
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=youjiyeon&hide_progress=true&theme=tokyonight width="280" height=156 alt="MUL" />
