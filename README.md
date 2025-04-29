@@ -19,8 +19,8 @@
   <div key="7">
     <h3 style ="font-size : 2em; font-weight:700;">💙hit💙</h3>
     <div className=hit>
-      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon416&count_bg=%2366C9DF&title_bg=%23F7C1C1&icon=&icon_color=%23DCDCDC&title=hits&edge_flat=false"/>
-      </a>
+      <!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon416&count_bg=%2366C9DF&title_bg=%23F7C1C1&icon=&icon_color=%23DCDCDC&title=hits&edge_flat=false"/>
+      </a>-->
     </div>
   </div>
   
