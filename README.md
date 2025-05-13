@@ -1,5 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:B7C7FF,50:CAAAFF,100:ECB7FF&text=Welcome%20to%20Jiyeon's%20GitHub%20👋&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=35&height=250)
 
+  <div>
+    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=622317541046326158&contribution-view=false" width="1000" height="250"/>
+  </div>
+
 # 저는!
 
 <!-- <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";> -->
