@@ -9,10 +9,10 @@
   <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
   <div key="7" >
     <div key=0 >
-          <h3 style ="font-size : 1.5em; font-weight:700;">
+<!--           <h3 style ="font-size : 1.5em; font-weight:700;">
           I am
-          </h3>
-          <p style ="font-size : 20px;">안녕하세요. 다양한 경험을 즐기는 개발자입니다.👩‍💻</p>
+          </h3> -->
+          <p style ="font-size : 20px;">다양한 경험을 즐기는 개발자입니다. 👩‍💻</p>
     </div>
   </div>
   <div>
