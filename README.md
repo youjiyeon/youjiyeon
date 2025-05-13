@@ -9,14 +9,11 @@
   <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
   <div key="7" >
 <!--     <div key=0 >
-<!--           <h3 style ="font-size : 1.5em; font-weight:700;">
+           <h3 style ="font-size : 1.5em; font-weight:700;">
           I am
-          </h3> -->
+          </h3>
           <p style ="font-size : 20px;">다양한 경험을 즐기는 개발자입니다. 👩‍💻</p>
     </div> -->
-  </div>
-  <div>
-    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=622317541046326158&contribution-view=false" width="1000" height="250"/>
   </div>
   <div key="7">
     <h3 style ="font-size : 2em; font-weight:700;">💙hit💙</h3>
@@ -156,7 +153,9 @@
   </div>
 </div>
 
-
+  <div>
+    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=622317541046326158&contribution-view=false" width="1000" height="250"/>
+  </div>
 
 # 오르다 성장 차트📈 (Updated 23.07.10)
 ![](./oreuda-history/오르다_23.07.10.PNG)
