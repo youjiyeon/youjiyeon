@@ -1,9 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:B7C7FF,50:CAAAFF,100:ECB7FF&text=Welcome%20to%20Jiyeon's%20GitHub%20👋&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=35&height=250)
 
-  <div>
-    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=622317541046326158&contribution-view=false" width="1000" height="250"/>
-  </div>
-
 # 저는!
 
 <!-- <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";> -->
@@ -19,7 +15,9 @@
           <p style ="font-size : 20px;">안녕하세요. 다양한 경험을 즐기는 개발자입니다.👩‍💻</p>
     </div>
   </div>
-  
+  <div>
+    <img src="https://render.gitanimals.org/lines/backbone94?pet-id=622317541046326158&contribution-view=false" width="1000" height="250"/>
+  </div>
   <div key="7">
     <h3 style ="font-size : 2em; font-weight:700;">💙hit💙</h3>
     <div className=hit>
