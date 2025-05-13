@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:B7C7FF,50:CAAAFF,100:ECB7FF&text=Welcome%20to%20Jiyeon's%20GitHub%20👋&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=35&height=250)
 
-# 저는!
+# 저는! 다양한 경험을 즐기는 개발자입니다. 👩‍💻
 
 <!-- <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";> -->
 <div  style = "display: flex; align-items: center; flex-direction: column; justify-content: center>
@@ -8,12 +8,12 @@
   <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
   <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
   <div key="7" >
-    <div key=0 >
+<!--     <div key=0 >
 <!--           <h3 style ="font-size : 1.5em; font-weight:700;">
           I am
           </h3> -->
           <p style ="font-size : 20px;">다양한 경험을 즐기는 개발자입니다. 👩‍💻</p>
-    </div>
+    </div> -->
   </div>
   <div>
     <img src="https://render.gitanimals.org/lines/backbone94?pet-id=622317541046326158&contribution-view=false" width="1000" height="250"/>
